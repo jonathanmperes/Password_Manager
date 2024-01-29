@@ -1,7 +1,8 @@
-pwd = input("What is the master password? ")
+master_pwd = input("What is the master password? ")
+
 
 while True:
-    mode = input("Would you like to add a new password or view existing ones (add, view), press q to quit? ").lower()
+    mode = input("Would you like to add a new password or view existing ones (add, view)? Press 'q' to quit. ").lower()
     if mode == "q":
         break
 
