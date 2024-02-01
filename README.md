@@ -26,7 +26,7 @@ Here are some of the key Python language features used in this project:
 
 ## Additional Information
 
-- **cryptography Library:** Explore the `cryptography` library for more advanced encryption features: [https://cryptography.io/en/latest/](https://cryptography.io/en/latest/)
+- [Cryptography](https://cryptography.io/en/latest/) **Library:** Explore the `cryptography` library for more advanced encryption features.
 
 ## Contributing
 
